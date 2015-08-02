@@ -6,8 +6,8 @@ if test "$(uname)" = "Darwin"; then
 fi
 
 
-read -p "Converting X0Y0 (mayus) in: " choice
-egrep -rl 'X0Y0' * | xargs $SED_COMMAND -i "s/X0Y0/$choice/g"
+read -p "Converting BillingReminder (mayus) in: " choice
+egrep -rl 'BillingReminder' * | xargs $SED_COMMAND -i "s/BillingReminder/$choice/g"
 
-read -p "Converting x0y0 (minus) in: " choice
-egrep -rl 'x0y0' . | xargs $SED_COMMAND -i "s/x0y0/$choice/g"
+read -p "Converting billing_reminder (minus) in: " choice
+egrep -rl 'billing_reminder' . | xargs $SED_COMMAND -i "s/billing_reminder/$choice/g"

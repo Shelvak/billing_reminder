@@ -1,19 +1,14 @@
-= X0Y0
+= BillingReminder
 
-Skeleton project
+=== Build Status {<img src="https://secure.travis-ci.org/Shelvak/billing_reminder.png"/>}[http://travis-ci.org/Shelvak/billing_reminder]
 
-All you have to do for start using it is change all the X0Y0 (and x0y0) strings
-with the name of your application...
+=== Dependency Status {<img src="https://gemnasium.com/Shelvak/billing_reminder.png?travis"/>}[https://gemnasium.com/Shelvak/billing_reminder]
 
-=== Build Status {<img src="https://secure.travis-ci.org/Shelvak/x0y0.png"/>}[http://travis-ci.org/Shelvak/x0y0]
-
-=== Dependency Status {<img src="https://gemnasium.com/Shelvak/x0y0.png?travis"/>}[https://gemnasium.com/Shelvak/x0y0]
-
-=== Code Status {<img src="https://codeclimate.com/github/Shelvak/x0y0.png"/>}[https://codeclimate.com/github/Shelvak/x0y0]
+=== Code Status {<img src="https://codeclimate.com/github/Shelvak/billing_reminder.png"/>}[https://codeclimate.com/github/Shelvak/billing_reminder]
 
 == (The MIT License)
 
-Copyleft (ɔ) 2014 Néstor Coppi
+Copyleft (ɔ) 2015 Néstor Coppi
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
